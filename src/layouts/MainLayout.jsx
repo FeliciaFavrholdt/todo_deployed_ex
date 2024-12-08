@@ -23,7 +23,7 @@ function MainLayout() {
           <Outlet />
         </main>
         <footer>
-          <p>&copy; Jon Bertelsen</p>
+          <p>&copy; 2024</p>
           <p>Todo system v. 0.9</p>
         </footer>
       </Container>
